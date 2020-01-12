@@ -1,0 +1,101 @@
+var friends = [
+{
+    "name":"Ahmed",
+    "photo":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+  "name":"Adrienne",
+  "photo":"https://images.pexels.com/photos/3373398/pexels-photo-3373398.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+},
+{
+  "name":"Sam",
+  "photo":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+{
+  "name":"Sally",
+  "photo":"https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "scores":[
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+},
+{
+  "name":"Julianne",
+  "photo":"https://images.pexels.com/photos/3496542/pexels-photo-3496542.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+},
+{
+  "name":"Justin",
+  "photo":"https://images.pexels.com/photos/3497181/pexels-photo-3497181.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "scores":[
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+}
+
+];
+
+module.exports = friends;
