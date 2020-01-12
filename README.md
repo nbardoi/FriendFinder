@@ -6,7 +6,7 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 The compatibility-based "FriendFinder" application -- basically a dating app. The application is implemented using a Node.js and Express server on the back end and the Materialize CSS framework on the front end.
 
 ### **Demo**
-Friend Finder is deployed to Heroku. Please check it out [here] (//stormy-garden-56463.herokuapp.com/).
+Friend Finder is deployed to Heroku. Please check it out [here] (https://stormy-garden-56463.herokuapp.com).
 
 ### **Instructions**
 Below you will find a guide to help you get started and teach you how to clone and run this repo.
